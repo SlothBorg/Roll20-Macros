@@ -22,6 +22,12 @@
 /me Range Advantage
 /roll (2d20KH1) + @{dextarity_mod}+@{PB}
 ```
+### Skill cheack @ Disadvantage
+```
+/me Stealth
+/roll (2d20KL1) + @{stealth_bonus}
+```
+
 
 ## Specific
 ### Javalin 
