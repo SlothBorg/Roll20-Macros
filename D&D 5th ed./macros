@@ -29,7 +29,6 @@
 /me Throws a Javalin
 /roll 1d20 +@{Deep Bell Peal|strength_mod|pb} 
 /roll 1d6 + @{Deep Bell Peal|dexterity_mod} 
-
 ```
 
 ### Longsword 1 Handed
