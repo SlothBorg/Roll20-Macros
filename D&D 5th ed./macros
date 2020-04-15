@@ -1,0 +1,47 @@
+## General
+### Melee Disadvantage
+```
+/me Melee Disadvantage
+/roll (2d20KL1) + @{strength_mod}+@{PB}
+```
+
+### Melee Advantage
+```
+/me Melee Advantage
+/roll (2d20KH1) + @{strength_mod}+@{PB}
+```
+
+### Range Disadvantage
+```
+/me Range Disadvantage
+/roll (2d20KL1) + @{dextarity_mod}+@{PB}
+```
+
+### Range Advantage
+```
+/me Range Advantage
+/roll (2d20KH1) + @{dextarity_mod}+@{PB}
+```
+
+## Specific
+### Javalin 
+```
+/me Throws a Javalin
+/roll 1d20 +@{Deep Bell Peal|strength_mod|pb} 
+/roll 1d6 + @{Deep Bell Peal|dexterity_mod} 
+
+```
+
+### Longsword 1 Handed
+```
+/me Longsword 1 Handed
+/roll 1d20 +@{strength_mod}+@{PB}
+/roll 1d8 + @{strength_mod}
+```
+
+### Longsword 2 Handed
+```
+/me Longsword 2 Handed
+/roll 1d20 +@{strength_mod}+@{PB}
+/roll 1d10 + @{strength_mod}
+```
