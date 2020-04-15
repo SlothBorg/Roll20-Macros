@@ -1,11 +1,5 @@
 ## General
 
-### Initiative
-```
-/me rolls Initiative
-/roll 1d20 + @{initiative_bonus}
-```
-
 ### Melee Disadvantage
 ```
 /me Melee Disadvantage
